@@ -1,0 +1,24 @@
+{
+  "name": "servidor-node-flutter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.17.1",
+    "mysql2": "^3.11.4",
+    "sequelize": "^6.6.5",
+    "servidor-node-flutter": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
