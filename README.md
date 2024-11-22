@@ -33,7 +33,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 1. **Clone o repositório (caso não tenha o arquivo .zip):**
 
    ```bash
-   git clone https://github.com/MarilaneMesquita/app-flutter-Desafio-final-.git
+   git clone https://github.com/MarilaneMesquita/app-flutter-Desafio-final-Servidor-backend-.git
    
 
 2. **Instale as dependências do projeto:**
